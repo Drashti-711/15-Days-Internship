@@ -91,7 +91,8 @@
 		  padding-bottom: 25px;
 		}
 		body{
-			background-color: skyblue;
+			background-image: url(schl.jpg);
+			/*background-color: skyblue;*/
 		}
 		div{
 			text-align: center;
@@ -105,7 +106,9 @@
 			text-align: center;
 			overflow: hidden;
 		}
-
+		.topnav a{
+		  color: whitesmoke;
+		}
 		.topnav a:hover {
 		  background: #ddd;
 		  color: red;
